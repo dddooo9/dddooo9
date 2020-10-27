@@ -1,6 +1,6 @@
 ### Doyeon Lim 🙌
 
-- Hi, there! This is doyeon. I'm a student studying in Multi-media Engineering at Dongguk University.
+- Hi, there! This is doyeon. I'm a student studying in Multi Media Engineering at Dongguk University.
 
 - 🌱 I’m currently learning ...
 
