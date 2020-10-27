@@ -1,4 +1,11 @@
-### Hi there 👋
+### Doyeon Lim 🙌
+
+- Hi, there! This is doyeon. I'm a student studying in Multi-media Engineering at Dongguk University.
+
+- 🌱 I’m currently learning ...
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=dddooo9&show_icons=true)
+
 
 <!--
 **dddooo9/dddooo9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
