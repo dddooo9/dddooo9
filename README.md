@@ -10,7 +10,7 @@
 
 <p align="center"><img src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"> <img src="https://img.shields.io/badge/-AndroidStudio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white"></p>
 
-<p align="center"><img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=Unity&logoColor=white"></p>
+<p align="center"><img src="https://img.shields.io/badge/-C%23-000000?logo=Csharp&style=flat"> <img src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=Unity&logoColor=white"></p>
 
 <p align="center"><img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=Mysql&logoColor=white"> <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=Postgresql&logoColor=white"> <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"> <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=Github&logoColor=white"></p>
 
