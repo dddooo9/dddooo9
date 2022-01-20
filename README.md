@@ -10,8 +10,6 @@
 
 <p align="center"><img src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"> <img src="https://img.shields.io/badge/-AndroidStudio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white"></p>
 
-<p align="center"><img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=Mysql&logoColor=white"> <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=Postgresql&logoColor=white"> <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"> <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=Github&logoColor=white"></p>
-
 <h5 align="center">Commication</h5>
 
 <p align="center"><img src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white"> <img src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"> <img src="https://img.shields.io/badge/-Trello-0052CC?style=flat-square&logo=Trello&logoColor=white"></p>
